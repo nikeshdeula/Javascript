@@ -2,6 +2,8 @@
 
 // Believe in yourself
 
+// Hello World
+
 console.log("Hello world");
 
 var hello = "hello world";

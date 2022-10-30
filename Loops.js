@@ -1,21 +1,17 @@
-// Loops
-
+// Loops in Javascript
 
 // while loop
 
-<<<<<<< Loops
 var i = "10"; 
 var text = "text";
-=======
+
+
 // var i = "10"; 
 // var text = "text";
 
 // while(i = text) {
 //     console.log("Hello World");
 // }
-
-
-
 
 
 //For Loops --> Array
@@ -25,7 +21,6 @@ var text = "text";
 // for (let i =0; i < cars.length; i++) {   
 //     console.log(cars);
 // };
-
 
 
 // if Else with Logical Operators
@@ -51,11 +46,6 @@ var text = "text";
 
 
 
->>>>>>> local
-
-while(i = text) {
-    console.log("Hello World");
-}
 
 
 

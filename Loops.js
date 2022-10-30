@@ -13,6 +13,7 @@
 
 
 
+
 //For Loops --> Array
 
 // let cars = ["tyota", "nissan", "Range Rober", "mustang" ];
@@ -22,14 +23,6 @@
 // };
 
 
-let cars = ["tyota", "nissan", "Range Rober", "mustang" ];
-let bike= ["duke", "honda", "Ns 200"];
-
-bike.push("dukati", "splender");
-bike.pop();
-bike.unshift("")
-
-console.log(bike);
 
 
 

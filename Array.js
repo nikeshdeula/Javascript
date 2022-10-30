@@ -35,19 +35,23 @@
 
 
 
-//Array Methods
+//Array Method
 
-var animals = ["Pig", "Hen", "Cow", "Goat", "Fish"];
-var flowers = ["Rose", "Lily", "Sunflower", "Tulip", "Jasmine"];
+// var animals = ["Pig", "Hen", "Cow", "Goat", "Fish"];
+// var flowers = ["Rose", "Lily", "Sunflower", "Tulip", "Jasmine"];
 
 
-animals.push("rabbit", "Mongoose"); // push method
-animals.pop(); //Pop Method
-animals.unshift("Snake"); //unshift method
-animals.shift(); //shift Method
+// animals.push("rabbit", "Mongoose"); // push method
+// animals.pop(); //Pop Method
+// animals.unshift("Snake"); //unshift method
+// animals.shift(); //shift Method
 
-console.log(animals);
-console.log(flowers);
+// console.log(animals);
+// console.log(flowers);
+
+
+
+
 
 
 

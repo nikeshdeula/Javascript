@@ -4,8 +4,8 @@
 
 // Hello World
 
-console.log("Hello world");
+// console.log("Hello world");
 
-var hello = "hello world";
+// var hello = "hello world";
 
-console.log(hello);
+// console.log(hello);

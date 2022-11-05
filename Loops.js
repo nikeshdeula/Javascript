@@ -2,16 +2,15 @@
 
 // while loop
 
-var i = "10"; 
-var text = "text";
-
-
 // var i = "10"; 
 // var text = "text";
 
 // while(i = text) {
 //     console.log("Hello World");
 // }
+
+
+
 
 
 //For Loops --> Array
@@ -35,12 +34,6 @@ var text = "text";
 // }else{
 //     console.log("i'm not");
 // }
-
-
-
-
-
-
 
 
 

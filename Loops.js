@@ -3,10 +3,10 @@
 
 // while loop
 
-<<<<<<< Loops
-var i = "10"; 
-var text = "text";
-=======
+
+// var i = "10"; 
+// var text = "text";
+
 // var i = "10"; 
 // var text = "text";
 
@@ -15,7 +15,14 @@ var text = "text";
 // }
 
 
+// let i  = 0;
+// let ii = 20;
 
+
+
+// while(i < 20) {
+//     console.log(`its value is ${i++}`);
+// }
 
 
 //For Loops --> Array
@@ -42,20 +49,9 @@ var text = "text";
 // }
 
 
-
-
-
-
-
-
-
-
-
->>>>>>> local
-
-while(i = text) {
-    console.log("Hello World");
-}
+// while(i = text) {
+//     console.log("Hello World");
+// }
 
 
 

@@ -1,11 +1,6 @@
-// Loops
-
+// Loops in Javascript
 
 // while loop
-
-
-// var i = "10"; 
-// var text = "text";
 
 // var i = "10"; 
 // var text = "text";
@@ -15,14 +10,7 @@
 // }
 
 
-// let i  = 0;
-// let ii = 20;
 
-
-
-// while(i < 20) {
-//     console.log(`its value is ${i++}`);
-// }
 
 
 //For Loops --> Array
@@ -32,7 +20,6 @@
 // for (let i =0; i < cars.length; i++) {   
 //     console.log(cars);
 // };
-
 
 
 // if Else with Logical Operators
@@ -49,9 +36,9 @@
 // }
 
 
-// while(i = text) {
-//     console.log("Hello World");
-// }
+
+
+
 
 
 
